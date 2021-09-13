@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dsperini@gmail.com
+	name = Daniel Perini
